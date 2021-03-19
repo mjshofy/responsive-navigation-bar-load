@@ -6,3 +6,5 @@ Learn how to create a responsive navigation bar or you can say header of a websi
 
 Thanks,
 [codermj](https://www.youtube.com/c/codermj)
+
+![preview](https://user-images.githubusercontent.com/76812554/111759805-33461600-88c8-11eb-8c65-bb65512bc81f.jpg)
